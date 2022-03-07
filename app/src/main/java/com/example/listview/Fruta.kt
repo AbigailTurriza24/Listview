@@ -1,7 +1,7 @@
 package com.example.listview
 
 import android.media.Image
-
+//fruta
 class Fruta(nombre:String, imagen:Int) {
     var nombre: String=""
     var imagen:Int = 0
