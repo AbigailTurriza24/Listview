@@ -9,7 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.core.os.persistableBundleOf
 import androidx.recyclerview.widget.RecyclerView
-
+//commmetn
 class AdaptadorCostum(var context:Context, items:ArrayList<Fruta>):BaseAdapter() {
 
     var items:ArrayList<Fruta>? = null
